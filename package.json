@@ -2,7 +2,7 @@
   "name": "prophet",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://score-prophet.com",
+  "homepage": "https://fonseca-felipe.github.io/site_prophet/",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "classnames": "^2.2.6",

@@ -8,7 +8,7 @@ export default function PublicationsPage(props){
             <div className="container">
                 <h1 className="py-4">Publications</h1>
                 <ul>
-                    <li className="py-2">
+                    <li className="py-2"> 
                     de Andrade, J. B. C., Mohr, J. P., Lima, F. O., de Freitas Carvalho, J. J., de Farias, V. A. E., Oliveira-Filho, J., ... & Pires, M. M. (2020). Predicting hemorrhagic transformation in patients not submitted to reperfusion therapies. Journal of Stroke and Cerebrovascular Diseases, 29(8), 104940. <a href="https://www.sciencedirect.com/science/article/abs/pii/S1052305720303463">(link)</a>
                     </li>
                     <li className="py-2">
