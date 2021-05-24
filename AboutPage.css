@@ -1,0 +1,53 @@
+.about-container .logo-container{
+    float: left;
+    width: 45%;
+}
+
+.about-container .logo-container img{
+    display: block;
+    margin: auto;
+    width: 100%;
+    margin-top: 100px;    
+}
+
+.about-container .text{    
+    float: left;
+    width: 55%;
+    text-align: center;
+}
+
+.about-container .text span{
+    display: block;
+    font-size: 20px;
+}
+
+.about-container .text img{
+    width: 100px;
+}
+
+.about-container .text b{
+    display: block;
+    text-align: center;
+}
+
+.about-container .text h1{
+    text-align: center;
+}
+
+@media only screen and (max-width: 992px) {
+    .about-container .logo-container{
+        /* float: left; */
+        /* width: 0%; */
+        display: none;
+    }
+    
+    .about-container .logo-container img{
+        display: block;
+        margin: auto;
+        margin-top: 100px;    
+    }
+    
+    .about-container .text{    
+        width: 100%;
+    }
+}
