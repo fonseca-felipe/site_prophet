@@ -17,12 +17,9 @@ export default {
 
         'nihss':"NIHSS",
         'nihss.description':'NIHSS',
-<<<<<<< HEAD
-=======
 
         'x': "x", 
         'x.description': 'a descrição do x',
->>>>>>> 5b3c475af643d617e9634f9cbe54f8241299a286
 
         'cardio': "TOAST Cardio-aortic", 
         'cardio.description': `We attested the stroke mechanism Cardio-aortic embolism from <a href="https://www.ncbi.nlm.nih.gov/pubmed/16240340">SSS-TOAST</a>, an evidence-based system. In our score, we considered all the levels of evidence described in the system. <br/><br/>
@@ -132,42 +129,8 @@ export default {
         'nihss':"NIHSS",
         'nihss.description':'NIHSS',
 
-<<<<<<< HEAD
-        'cardio': "TOAST Cardio-aortic", 
-        'cardio.description': `Foi classificado como mecanismo etiológico cardio-aórtico segundo os critérios propostos no sistema de classificação <a href="https://www.ncbi.nlm.nih.gov/pubmed/16240340">SSS-TOAST</a>. Todos os níveis de confiança foram considerados.</a> <br/><br/>
-        <b>Presença de uma fonte de embolia cerebral de alto risco (Nível Evidente) </b> <br/><br/>
-        1. Trombo no átrio esquerdo <br/>
-        2. Trombo no ventrículo esquerdo <br/>
-        3. Fibrilação atrial <br/>
-        4. Fibrilação atrial paroxística <br/>
-        5. Síndrome do nó sinusal <br/>
-        6. Flutter atrial sustentado <br/>
-        7. Infarto do miocárdio recente (dentro de 1 mês) <br/>
-        8. Doença reumática nas valva mitral ou aórtica <br/>
-        9. Valva biológica ou mecânica <br/>
-        10. Infarto crônico do miocárdio com fração de ejeção inferior a 28% <br/>
-        11. Insuficiência cardíaca sintomática com fração de ejeção inferior a 30% <br/>
-        12. Cardiomiopatia dilatada <br/>
-        13. Endocardite trombótica não infecciosa <br/><br/>
-        <i>Fonte de origem não predominantemente trombótica </i> <br/>
-        14. Endocardite infeciosa <br/>
-        15. Fibroelastoma papilar <br/>
-        16. Mixoma atrial esquerdo <br/><br/>
-        <b>Evidência de embolia sistêmica ou presença de múltiplos infartos agudos que ocorreram quase ao mesmo tempo bilateralmente na circulação anterior ou posterior, na ausência de oclusão ou estenose crítica em todos os vasos relevantes; outras condições que causem isquemia multifocal como vasculite, vasculopatias e distúrbios de coagulação ou hemodinâmicos devem não estar presentes. (Nível Provável) </b> </br> </br>
-        <b>A presença de uma condição cardíaca com baixo ou incerto risco primário de embolia cerebral (veja abaixo) ou evidência de evidente embolia cardioaórtica na ausência de investigação diagnóstica completa para outros mecanismos. (Nível Possível)</b> </br></br>
-        <i>Fontes com baixo ou incerto risco primário para AVC isquêmico </i> </br></br>
-        17. Calcificação do anel mitral </br>
-        18. Forame oval patente </br>
-        19. Aneurisma de septo atrial </br>
-        20. Aneurisma de septo atrial com forame oval patente </br>
-        21. Aneurisma de ventrículo esquerdo sem trombo </br>
-        22. Sombra isolada no átrio esquerdo (sem estenose mitral ou fibrilação atrial) </br>
-        23. Ateroma complexo na aorta ascendente ou arco proximal `,
-    'quiz.click': '*Clique nas caixas para mais informações',
-=======
         'x': "x", 
         'x.description': 'a descrição do x',
->>>>>>> 5b3c475af643d617e9634f9cbe54f8241299a286
 
         'cardio': "TOAST Cardio-aortic", 
         'cardio.description':`Foi classificado como mecanismo etiológico cardio-aórtico segundo os critérios propostos no sistema de classificação <a href="https://www.ncbi.nlm.nih.gov/pubmed/16240340">SSS-TOAST</a>. Todos os níveis de confiança foram considerados.</a> <br/><br/>
@@ -241,13 +204,8 @@ export default {
         'nihss':"NIHSS",
         'nihss.description':'NIHSS',
 
-<<<<<<< HEAD
-        'cardio': "TOAST Cardio-aortic", 
-        'cardio.description': 'a descrição do cárdio',
-=======
         'cx': "x", 
         'cx.description': 'a descrição do x',
->>>>>>> 5b3c475af643d617e9634f9cbe54f8241299a286
 
         'cardio': "TOAST Cardio-aortic", 
         'cardio.description':`
