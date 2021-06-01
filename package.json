@@ -2,7 +2,7 @@
   "name": "prophet",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://prophetpc-score.com/",
+  "homepage": "prophetpc-score.com",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "classnames": "^2.2.6",
