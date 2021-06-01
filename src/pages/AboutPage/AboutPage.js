@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import NavBar from "../../components/NavBar/NavBar";
 import "./AboutPage.css";
-import logo from "../../assets/logo.png";
+import logo from "../../assets/logo_prophet_pc.png";
 import capes from "../../assets/capes.jpg";
 
 function AboutPage(props) {
@@ -16,7 +16,7 @@ function AboutPage(props) {
           <h1 className="my-5">About</h1>
           <span className="py-4">
             Application developed by Victor Aguiar Evangelista de Farias,
-            Joao Brainer Clares de Andrade, Felipe Fonseca Martins Costa
+            Joao Brainer Clares de Andrade and Felipe Fonseca Martins Costa
           </span>
           {/* <span className="py-2">In association with Hospital Geral de Fortaleza (Brazil) and Universidade Federal de São Paulo (Brazil) </span> */}
           <b className="py-2">
