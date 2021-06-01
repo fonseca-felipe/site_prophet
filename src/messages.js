@@ -17,6 +17,12 @@ export default {
 
         'nihss':"NIHSS",
         'nihss.description':'NIHSS',
+<<<<<<< HEAD
+=======
+
+        'x': "x", 
+        'x.description': 'a descrição do x',
+>>>>>>> 5b3c475af643d617e9634f9cbe54f8241299a286
 
         'cardio': "TOAST Cardio-aortic", 
         'cardio.description': `We attested the stroke mechanism Cardio-aortic embolism from <a href="https://www.ncbi.nlm.nih.gov/pubmed/16240340">SSS-TOAST</a>, an evidence-based system. In our score, we considered all the levels of evidence described in the system. <br/><br/>
@@ -53,8 +59,8 @@ export default {
         'lacunar_syndrome':'Lacunar syndrome', 
         'lacunar_syndrome.description':'Defined based on The Oxfordshire Community Stroke Project classification system <a href="https://www.ncbi.nlm.nih.gov/pubmed/1675378">(Bamford, 1991)</a>: pure motor OR pure sensory OR sensorimotor symptoms OR ataxic hemiparesis OR clumsy-hand dysarthria <br/> <b>Visit our computerized version of The Oxfordshire Community Stroke Project classification system at  <a href="http://www.compact-stroke.com">www.compact-stroke.com</a> </b> ',        
 
-        'aortic_insufficiency':'Cardio-aortic embolism',
-        'aortic_insufficiency.description':`We attested the stroke mechanism Cardio-aortic embolism from <a href="https://www.ncbi.nlm.nih.gov/pubmed/16240340">SSS-TOAST</a>, an evidence-based system. In our score, we considered all the levels of evidence described in the system. <br/><br/>
+        'cardio': "TOAST Cardio-aortic", 
+        'cardio.description':`We attested the stroke mechanism Cardio-aortic embolism from <a href="https://www.ncbi.nlm.nih.gov/pubmed/16240340">SSS-TOAST</a>, an evidence-based system. In our score, we considered all the levels of evidence described in the system. <br/><br/>
             <b>The presence of a high-risk cardiac source of cerebral embolism (Evident level of confidence):</b><br/><br/>
             Sources of embolism of thrombotic origin <br/>
             1. Left atrial thrombus <br/>
@@ -126,6 +132,7 @@ export default {
         'nihss':"NIHSS",
         'nihss.description':'NIHSS',
 
+<<<<<<< HEAD
         'cardio': "TOAST Cardio-aortic", 
         'cardio.description': `Foi classificado como mecanismo etiológico cardio-aórtico segundo os critérios propostos no sistema de classificação <a href="https://www.ncbi.nlm.nih.gov/pubmed/16240340">SSS-TOAST</a>. Todos os níveis de confiança foram considerados.</a> <br/><br/>
         <b>Presença de uma fonte de embolia cerebral de alto risco (Nível Evidente) </b> <br/><br/>
@@ -157,9 +164,13 @@ export default {
         22. Sombra isolada no átrio esquerdo (sem estenose mitral ou fibrilação atrial) </br>
         23. Ateroma complexo na aorta ascendente ou arco proximal `,
     'quiz.click': '*Clique nas caixas para mais informações',
+=======
+        'x': "x", 
+        'x.description': 'a descrição do x',
+>>>>>>> 5b3c475af643d617e9634f9cbe54f8241299a286
 
-        'aortic_insufficiency':'Etiologia Cárdio-aórtica',
-        'aortic_insufficiency.description':`Foi classificado como mecanismo etiológico cardio-aórtico segundo os critérios propostos no sistema de classificação <a href="https://www.ncbi.nlm.nih.gov/pubmed/16240340">SSS-TOAST</a>. Todos os níveis de confiança foram considerados.</a> <br/><br/>
+        'cardio': "TOAST Cardio-aortic", 
+        'cardio.description':`Foi classificado como mecanismo etiológico cardio-aórtico segundo os critérios propostos no sistema de classificação <a href="https://www.ncbi.nlm.nih.gov/pubmed/16240340">SSS-TOAST</a>. Todos os níveis de confiança foram considerados.</a> <br/><br/>
             <b>Presença de uma fonte de embolia cerebral de alto risco (Nível Evidente) </b> <br/><br/>
             1. Trombo no átrio esquerdo <br/>
             2. Trombo no ventrículo esquerdo <br/>
@@ -230,11 +241,16 @@ export default {
         'nihss':"NIHSS",
         'nihss.description':'NIHSS',
 
+<<<<<<< HEAD
         'cardio': "TOAST Cardio-aortic", 
         'cardio.description': 'a descrição do cárdio',
+=======
+        'cx': "x", 
+        'cx.description': 'a descrição do x',
+>>>>>>> 5b3c475af643d617e9634f9cbe54f8241299a286
 
-        'aortic_insufficiency':'Embolismo cardio-aórtico',
-        'aortic_insufficiency.description':`
+        'cardio': "TOAST Cardio-aortic", 
+        'cardio.description':`
                 Hemos evaluado el mecanismo cardioembólico de accidente cerebrovascular a partir de la clasificación basada en evidencia <a href="https://www.ncbi.nlm.nih.gov/pubmed/16240340">SSS-TOAST</a>. En nuestra puntuación, consideramos todos los niveles de evidencia descritos en la clasificación. <br/><br/>
                 <b>Presencia de embolismo cerebral de fuente cardíaca de alto riesgo (Nivel de confianza evidente):</b> <br/><br/>
                 <i>Fuentes de embolismo de origen trombótico </i> <br/><br/>
