@@ -203,10 +203,7 @@ export default {
 
         'nihss':"NIHSS",
         'nihss.description':'NIHSS',
-
-        'cx': "x", 
-        'cx.description': 'a descrição do x',
-
+        
         'cardio': "TOAST Cardio-aortic", 
         'cardio.description':`
                 Hemos evaluado el mecanismo cardioembólico de accidente cerebrovascular a partir de la clasificación basada en evidencia <a href="https://www.ncbi.nlm.nih.gov/pubmed/16240340">SSS-TOAST</a>. En nuestra puntuación, consideramos todos los niveles de evidencia descritos en la clasificación. <br/><br/>

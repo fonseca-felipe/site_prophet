@@ -15,8 +15,8 @@ function AboutPage(props) {
         <div className="text">
           <h1 className="my-5">About</h1>
           <span className="py-4">
-            Application developed by Victor Aguiar Evangelista de Farias and
-            Joao Brainer Clares de Andrade
+            Application developed by Victor Aguiar Evangelista de Farias,
+            Joao Brainer Clares de Andrade, Felipe Fonseca Martins Costa
           </span>
           {/* <span className="py-2">In association with Hospital Geral de Fortaleza (Brazil) and Universidade Federal de São Paulo (Brazil) </span> */}
           <b className="py-2">
