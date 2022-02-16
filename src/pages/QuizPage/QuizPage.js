@@ -8,7 +8,7 @@ import messages from "../../messages";
 
 import male from "../../assets/male.png";
 import glycemia from "../../assets/glycemia.png";
-import aspects from "../../assets/NIHSS.jpg";
+import aspects from "../../assets/NIHSS.png";
 import acm from "../../assets/Cardio.png";
 import NavBar from "../../components/NavBar/NavBar";
 
